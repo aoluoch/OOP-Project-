@@ -24,3 +24,4 @@ After Creating Database,
 
 9th Step: Moreover, Open a browser and go to URL “http://localhost/minima” click the public folder to view the website.
 N/B the uploads accepts jpg images only.
+Kindly delete the image with the "jpeg" extension.
