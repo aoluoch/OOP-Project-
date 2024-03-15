@@ -9,6 +9,9 @@ Class Upload_file
 		$_SESSION['error'] = ""; 
 
 		$allowed[] = "image/jpeg";
+		$allowed[] = "image/png";
+		$allowed[] = "image/gif";
+		$allowed[] = "image/jpg";
 
 		if(isset($POST['title']) && isset($FILES['file']))
 		{
